@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cassandra Reitz!
 - 👀 I’m interested in test automation frameworks
 - 🌱 I’m currently learning Java and C#
-- 📫 How to reach me on my LinkedIn https://www.linkedin.com/in/cassandra-reitz-56799a63/
+- 📫 Reach me on LinkedIn https://www.linkedin.com/in/cassandra-reitz-56799a63/
